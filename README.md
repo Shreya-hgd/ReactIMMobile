@@ -1,8 +1,7 @@
 IM-Button Component
+
 ReactIMMobile
 
-
-Install
 Install using npm install im-button
 
 
