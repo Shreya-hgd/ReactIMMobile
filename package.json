@@ -28,22 +28,22 @@
     "metro-react-native-babel-preset": "^0.59.0"
   },
   "private": false,
-  "name": "stepper",
+  "name": "im-button",
   "version": "1.0.1",
-  "description": "IM Progress stepper UI",
+  "description": "IM Button",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shreya-hgd/IM-Mobile.git"
+    "url": "git+https://github.com/Shreya-hgd/ReactIMMobile.git"
   },
   "keywords": [
     "react-native",
     "react-native",
     "react-component"
   ],
-  "author": "Colby",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shreya-hgd/IM-Mobile/issues"
+    "url": "https://github.com/Shreya-hgd/ReactIMMobile.git/issues"
   },
-  "homepage": "https://github.com/Shreya-hgd/IM-Mobile#readme"
+  "homepage": "https://github.com/Shreya-hgd/ReactIMMobile.git#readme"
 }
